@@ -1,2 +1,2 @@
 # python-darslari
-ushbu repozitoriyada paythonga doir dasrlar joylangan
+ushbu repozitoriyada pythonga doir dasrlar joylangan
